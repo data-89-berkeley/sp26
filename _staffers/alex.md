@@ -1,9 +1,9 @@
 ---
 name: Alexander Strang
-role: Professor
+role: Instructor
 email: alexstrang
 website: http://alexanderstrang.com/
-photo: alex.jpg
+photo: Alex-Headshot.jpg
 ---
 
 I am an assistant teaching professor in Statistics and Data Science. I joined Berkeley in 2023 from the University of Chicago. I earned a PhD in applied math from Case Western Reserve University in 2020. Since then I have taught Calc I, II and III, Linear Algebra, Numerical Linear Algebra, Ordinary Differential Equations, Nonlinear Dynamics, Reinforcement Learning in Games, Probability (Stat 20, Data 140 and Stat 134), Pedagogy for Data Science (Data 375), Information Theory (Stat 157), Bayesian Statistics (Stat 238), and Data 102 (a topics course in statistics and decision making). 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Home
 nav_order: 1
 permalink: /
 seo:

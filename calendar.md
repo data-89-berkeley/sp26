@@ -2,7 +2,7 @@
 layout: page 
 title: Calendar (Static)
 description: Lecture, Discussion and OH schedules
-nav_order: 2
+nav_exclude: true
 ---
 
 # Calendar (Static)

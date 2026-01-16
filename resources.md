@@ -3,9 +3,9 @@ layout: page
 title: Resources
 description: >-
     Course resources
-nav_order: 5
+nav_order: 3
 ---
 
 # Resources
 
-Add links to course resources here
+Check back later for more information.

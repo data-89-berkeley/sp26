@@ -14,32 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# TODO(setup): Typically the course number, "DEPT XXX". it appears on nearly every page. Keep it short. :)
-title: A Berkeley Course
-# TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-# TODO(template): this should be built from the staff list...
-author: Various Bears
+title: Data 89
+tagline: Mathematical and Graphical Foundations of Probability
+description: "UC Berkeley Data 89: Mathematical and Graphical Foundations of Probability"
+author: Data 89 Staff
 
-# TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/berkeley-class-site' # the subpath of your site, which should just be the semester.
-# TODO(setup): Set this to your course's domain
-url: 'https://berkeley-eecs.github.io' # the hostname & protocol for your site, e.g. http://example.com
+baseurl: '/sp26' # the subpath of your site, which should just be the semester.
+url: 'https://data89.org' # the hostname & protocol for your site, e.g. http://example.com
 
-# Course variables
-# Course variables can appear in various places around the website, if something isn't used leave it blank.
-# TODO(setup): Set all of these course variables
-course: SAMPLE 101
-course_email: COURSE_EMAIL@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
+course: Data 89
+course_email: 
+gradescope_course_id: 1551938 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 123456 # Again, same as above.
-sememster: spYY | suYY | faYY # set for the current seemester
-# TODO(template): We need to set this up.
-course_logo_path:
+ed_course_id: 92899 # Again, same as above.
+sememster: sp26 # set for the current seemester
+course_logo_path: assets/images/logo
 # This should be one of eecs, dsus, stat
-# (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
@@ -53,66 +43,67 @@ favicon_ico: "/favicon.png"
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
-  # TODO(template): Move this to be built-in.
+  Course Notes:
+    - 'https://data89.org/notes'
   Ed:
-    - 'https://edstem.org'
-  OH Queue:
-    - 'https://oh.c88c.org'
-  View Template on GitHub:
-    - 'https://github.com/berkeley-eecs/berkeley-class-site'
+    - 'https://edstem.org/us/courses/92899/discussion'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/1223486'
 
-# TODO(template): These need to be documented
-# TODO(semester): You may want to review these...
 berkeley_theme_options:
   show_logo_in_sidebar: true
 
-# TODO(template): Copy class information to the template.
-google_calendar:
-  # This can be found in the settings for the calendar.
-  # The calendar must be publicly readable.
-  google_calendar_id: c_134c9c007d75a399b5e7b39377d2f4e45c9db648f2df4417f8c9a490cb0726d1@group.calendar.google.com
-  # You need to make this, once per course, ideally via a SPA
-  # TODO: Recommend adding link to Google cloud project here
-  google_api_key: AIzaSyBombNhLEEZRjCfG4Fp5PpmICYBZO3PvY8
-  # These are processed in order, top-to-bottom, first match applies
-  # The prefix/suffix matches the Google Calendar event *title*
-  # You may use only prefix OR suffix, see fullcalendar.js
-  event_types:
-    - suffix: Lecture
-      background_color: '9FD1FF' # Blue light
-      text_color: '000'
-      class: cal-lecture
-      icon: fa-school
-    - suffix: Tea Hours
-      background_color: 'FFE88D' # gold light
-      text_color: '000'
-      class: cal-tea-oh
-      icon: fa-mug-hot
-    - suffix: Faculty Office Hours
-      background_color: 'FFC31B' # gold medium
-      text_color: '000'
-      class: cal-tea-oh
-      icon: fa-person-circle-question
-    - suffix: Office Hours
-      background_color: 'D9CEFF' # purple light
-      text_color: '000000'
-      class: cal-oh
-      icon: fa-person-circle-question
-    - suffix: Tutoring Section
-      background_color: 'FFCFE5' # rose light
-      text_color: '000000'
-      class: cal-tutoring
-      icon: fa-people-group
-    - suffix: Section
-      background_color: '004AAE' # blue medium
-      text_color: 'FFFFFF'
-      class: cal-disc-section
-      icon: fa-person-chalkboard
-    - suffix: Exam
-      background_color: 'FA8072' # salmon red
-      text_color: '000000'
-      class: cal-tutoring
-      icon: fa-school
+# Use this to show/hide the "announcements" feature on the homepage.
+# Add your weekly announcements in the _announcements folder.
+enable_announcements: true
+
+# # TODO(template): Copy class information to the template.
+# google_calendar:
+#   # This can be found in the settings for the calendar.
+#   # The calendar must be publicly readable.
+#   google_calendar_id: c_134c9c007d75a399b5e7b39377d2f4e45c9db648f2df4417f8c9a490cb0726d1@group.calendar.google.com
+#   # You need to make this, once per course, ideally via a SPA
+#   # TODO: Recommend adding link to Google cloud project here
+#   google_api_key: AIzaSyBombNhLEEZRjCfG4Fp5PpmICYBZO3PvY8
+#   # These are processed in order, top-to-bottom, first match applies
+#   # The prefix/suffix matches the Google Calendar event *title*
+#   # You may use only prefix OR suffix, see fullcalendar.js
+#   event_types:
+#     - suffix: Lecture
+#       background_color: '9FD1FF' # Blue light
+#       text_color: '000'
+#       class: cal-lecture
+#       icon: fa-school
+#     - suffix: Tea Hours
+#       background_color: 'FFE88D' # gold light
+#       text_color: '000'
+#       class: cal-tea-oh
+#       icon: fa-mug-hot
+#     - suffix: Faculty Office Hours
+#       background_color: 'FFC31B' # gold medium
+#       text_color: '000'
+#       class: cal-tea-oh
+#       icon: fa-person-circle-question
+#     - suffix: Office Hours
+#       background_color: 'D9CEFF' # purple light
+#       text_color: '000000'
+#       class: cal-oh
+#       icon: fa-person-circle-question
+#     - suffix: Tutoring Section
+#       background_color: 'FFCFE5' # rose light
+#       text_color: '000000'
+#       class: cal-tutoring
+#       icon: fa-people-group
+#     - suffix: Section
+#       background_color: '004AAE' # blue medium
+#       text_color: 'FFFFFF'
+#       class: cal-disc-section
+#       icon: fa-person-chalkboard
+#     - suffix: Exam
+#       background_color: 'FA8072' # salmon red
+#       text_color: '000000'
+#       class: cal-tutoring
+#       icon: fa-school
 
 # Collections for website data
 collections:
@@ -136,6 +127,9 @@ collections:
   discussions:
     output: true
     permalink: /:collection/:path/
+  quizzes:
+    output: true
+    permalink: /:collection/:path/
 
 # The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
 plugins:
@@ -145,6 +139,30 @@ plugins:
   - jekyll-include-cache
   - jekyll-jupyter-notebook
 
+# Default layouts for each collection type
+# Collections for website data
+collections:
+  staffers:
+    sort_by: name
+  calendars:
+  announcements:
+    sort_by: date
+  labs:
+    output: true
+    permalink: /:collection/:path/
+  lectures:
+    output: true
+    sort_by: date
+    permalink: /lectures/:path/
+  hw:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  discussions:
+    output: true
+    permalink: /:collection/:path/
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -159,7 +177,7 @@ defaults:
     values:
       layout: discussion
       nav_exclude: true
-      subpath: 'assets/discussions/'
+      subpath: '/assets/discussions/'
   - scope:
       path: ''
       type: hw
@@ -195,8 +213,13 @@ defaults:
       type: lectures
     values:
       layout: lecture
-      time: 00:00 # Default release time of lectures is currently set to 12:00 AM 
-
+      time: 09:00 # Default release time of lectures is currently set to 12:00 PM
+  - scope:
+      path: ''
+      type: quizzes
+    values:
+      layout: page
+      nav_exclude: true
 
 ######################################################################
 # Just the Docs / Berkeley Class Site Common Config
@@ -220,6 +243,8 @@ callouts:
   warning:
     title: Warning
     color: red
+
+markdown: Kramdown
 
 # TODO(template): CSS compilations. Handle warnings...
 sass:

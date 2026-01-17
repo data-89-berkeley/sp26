@@ -149,7 +149,9 @@ Per the division of assignment roles outlined above, your grade will not be base
      * \[50% to 55%\]   quiz average ..…... then your letter grade will be in \[D and B-\]  
      * \[45% to 50%\]   quiz average ..…... then your letter grade will be in \[D- and C+\]  
      * You must earn at least a 45% quiz average to pass the class.  
-   * Every student who attempts a quiz and receives less than an 80% after the adjustment above is eligible for a retake. Please do not register for a retake if you earned more than an 80% on your first attempt, by the scheme described above, the retake cannot change your final grade. If you retake a quiz, then your quiz grade will be set to the better of your two attempts. Students who miss a quiz and communicate with staff may be granted eligibility for the retake. 
+   * We will outline the scope for each quiz a week in advance. 
+   * Every student who attempts a quiz and receives less than an 80% after the is eligible for a retake. Please do not register for a retake if you earned more than an 80% on your first attempt, by the scheme described above, the retake cannot change your final grade. If you retake a quiz, then your quiz grade will be set to the better of your two attempts. Students who miss a quiz and communicate with staff may be granted eligibility for the retake. 
+   * Retakes will be similar but not identical to the original quiz. Problems will be semi-randomized.
    * A quiz may be dropped in extenuating circumstances. Do not assume a drop applies unless granted. 
 
      

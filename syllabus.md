@@ -88,6 +88,58 @@ Outside Resources:
 
 ---
 
+## Announcements and Communication: 
+
+All announcements will be posted on Ed. Regular course communication will happen there. If you need to contact us directly regarding an urgent or individual issue, please email us at [data89@berkeley.edu](data89@berkeley.edu). Please use this email for all course related emails that can be addressed by the course staff. Please email before posting privately on Ed.
+
+WeI do not promise to answer communications outside of regular work hours, so please try to make sure you send your messages with appropriate lead time. 
+
+---
+
+## Policies:
+
+#### **Lecture Attendance:** 
+
+Attendance is expected and encouraged, but will not be tracked. Lecture recordings will not be released automatically, and will be delivered only on request. We may provide worksheets in some lectures to help you organize your notes. Otherwise, we expect all students to attend with notetaking materials (pen and paper or notebook, ipad). We will only allow typed notes (laptop use) on request. 
+
+#### **Recording Policy:** 
+
+Based on our experience in many classes, we strongly believe that the virtue of lecture is the live, regular, segmented format. We will do our best to make live lecture worth attending. It is very hard to learn any college level subject without regular, incremental practice. Lecture should not be crammed at 1.5x speed, nor back to back to back.
+
+We also strongly encourage you to make friends in class and to share notes. All of the lecture content is also available in course reading. If you do miss a class, and are unsure what to read, ask the course staff. All worksheets will be posted at the time of lecture.
+
+#### **Discussion Attendance:** 
+
+Discussion attendance is expected. You must attend your assigned section. Discussion worksheets will be collected to track course participation and will graded for completion and attendance. All discussion worksheets will be designed to help you complete your HW.  
+
+#### **Technology Use in Lecture:**
+
+Please refrain from using laptops during class. You may take notes on a tablet, or bring a notebook and write in it\!
+
+If you need or want to use a laptop for legitimate purposes, you will be given the opportunity to submit a petition to use your laptop. To request an exemption to the policy, complete [laptop exemption form](https://forms.gle/SVB58nK5oX4AGJh46) by the Thursday at class time, on the first week of class.
+
+If you are a DSP student with note-taking accomodations please contact us so we can arrange a note taker for you.
+
+#### **Late Work Policy:** 
+
+We will not accept late work without advance notice and only in clearly extenuating circumstances. Please make an effort to submit assignments on time, before the Gradescope deadline. Email us if you face valid extenuating circumstances and cannot submit on time. Do not expect an extension unless it is explicitly granted. Note that, by design, the grading policy allows HW and discussion drops without penalty. We will not grant late submission until you have missed at least 2 HW submissions. Since assignments are graded on completion, you are welcome to submit partially finished work to document your participation.
+
+#### **LLM and AI use:**
+
+We can’t police the use of AI for HW, so we won’t. Moreover, some uses of AI are productive. So you are welcome to use it. 
+
+However, we strongly advise against using it as a crutch, and suggest you attempt problems on your own first, or with peers. *You cannot learn to problem solve by reading solutions*. It is your responsibility to take ownership of your practice and study. If you do not master the problems presented in the HW, you will not be prepared for the quizzes. If you do, then you will be well prepared and will not need to spend much additional time studying. 
+
+If you find you are relying on AI, or complete the HW but struggle on quizzes, come talk to us so we can help you work out a plan to practice more productively.
+
+#### **Accommodations and Communication:**  
+
+We cannot address all issues, particularly on late notice. However, we will do our best to accommodate your needs. Legitimate issues arise, and you are welcome to advocate for your benefit. The earlier we are aware of issues, the better we can respond. We are happy to provide appropriate accommodations as long as they are fair to the class. 
+
+Accommodations here do not refer to DSP accommodations, but rather extenuating circumstances on particular assignments. All [DSP accommodations will be provided](https://docs.google.com/document/d/1otFVScQishuw92iCpFt7pKRrbnEfm8SWLNmMVMEMGbw/edit?usp=sharing) as is the student's right by law.
+
+---
+
 ## Activities and Assignments: 
 
 The following course components will be designed to 1\. \[exposit\] provide exposition and reference, 2\. \[construct\] provide hands-on practice, 3\. \[form\] evaluate proficiency, 4\. \[sum\] evaluate mastery. 

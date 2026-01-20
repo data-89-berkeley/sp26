@@ -50,6 +50,12 @@ aux_links:
   Gradescope:
     - 'https://www.gradescope.com/courses/1223486'
 
+nav_external_links:
+  - title: Course Notes
+    url: https://data89.org/notes/
+    hide_icon: true
+    aria_label: "Data 89 Course Notes"
+
 berkeley_theme_options:
   show_logo_in_sidebar: true
 

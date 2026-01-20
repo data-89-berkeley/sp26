@@ -160,7 +160,7 @@ The following course components will be designed to 1\. \[exposit\] provide expo
 
 **Exams:** The course will include two midterm exams (non-cumulative) and one cumulative final. They will be held outside of class. The midterm exams will not be cumulative, however, the skills taught in the beginning of the course will be needed for tasks demanded at the end. Midterms will run for 110 minutes. The final will run for 170 minutes.
 
-The exams will be administered on Mondays from 7:00 \- 9:00 pm of weeks 6 and 11\.
+The exams will be administered on Mondays from 7:00 \- 9:00 pm of weeks 6 and 12 (spring break inclusive)\. The exam dates are **Monday February 23rd** and **Monday April 6th**. 
 
 **Clobber Policy:** If we are given advance notice that you must miss an exam, then we may grant a clobber. If a student is excused from a midterm exam, their exam score will be estimated via regression at the end of the course from their final exam score in a way that does not help or hurt their final grade on average. This method, which assigns them the average score on the missed exam among people who received the same or very similar scores on the final, takes into account variability in exam difficulty.
 

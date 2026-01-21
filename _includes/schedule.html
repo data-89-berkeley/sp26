@@ -44,6 +44,15 @@
 {%- endfor -%}
 
 {%- comment -%}
+  - Manually add any extra days we need to appear on the schedule for quiz retakes
+  - Use the date field in quiz-retakes.yml to control this.
+{%- endcomment -%}
+{%- for retake in site.data.quiz-retakes.quiz-retakes -%}
+  {%- assign retake_day_epoch = retake.date | date: '%s' | plus: 0 -%}
+  {%- assign valid_dates = valid_dates | push: retake_day_epoch -%}
+{%- endfor -%}
+
+{%- comment -%}
   Sort days and group into weeks.
   sorted_dates is an array, where each element is a hash with three fields:
   - "name" is the week number (between 1 and 52)
@@ -367,22 +376,37 @@
                 {%- endif -%}
             {%- endif -%}
 
-            {%- comment -%} --- PROJECT LOGIC (Date-Driven) --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
 
-            {%- for project in site.data.projects.projects -%}
-            {%- assign project_date = project.date | date: "%Y-%m-%d" -%}
-            
-            {%- if project_date == current_date -%}
+            {%- comment -%} --- QUIZ RETAKES --- {%- endcomment -%}
+            {%- for retake in site.data.quiz-retakes.quiz-retakes -%}
+                {%- assign retake_date = retake.date | date: "%Y-%m-%d" -%}
+                
+                {%- if retake_date == current_date -%}
                 <div class="syllabus-item" style="margin-bottom: 8px;">
-                <strong class="label label-project">Project {{project.label-number}}</strong>
-                {%- if project.link -%}
-                    <a href="{{ project.link }}">{{ project.title }}</a>
+                <strong class="label label-quiz-retake">Quiz Retake</strong>
+                {%- if retake.link -%}
+                    <a href="{{ retake.link }}">{{ retake.title }}</a>
                 {%- else -%}
-                    {{ project.title }}
+                    {{ retake.title }}
                 {%- endif -%}
                 </div>
             {%- endif -%}
+            {%- endfor -%}
+
+            {%- comment -%} --- PROJECT LOGIC (Date-Driven) --- {%- endcomment -%}
+            {%- for project in site.data.projects.projects -%}
+                {%- assign project_date = project.date | date: "%Y-%m-%d" -%}
+                
+                {%- if project_date == current_date -%}
+                    <div class="syllabus-item" style="margin-bottom: 8px;">
+                    <strong class="label label-project">Project {{project.label-number}}</strong>
+                    {%- if project.link -%}
+                        <a href="{{ project.link }}">{{ project.title }}</a>
+                    {%- else -%}
+                        {{ project.title }}
+                    {%- endif -%}
+                    </div>
+                {%- endif -%}
             {%- endfor -%}
           </td>
 

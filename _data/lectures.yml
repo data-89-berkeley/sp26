@@ -19,38 +19,66 @@
 # providing the readings field.
 
 lectures:
+  - slug: lecture01
+  # - title: "Probability Essentials: Sets, Logic, and Algebra"
+  # - slug: lecture02
   - title: "Probability Essentials: Sets, Logic, and Algebra"
-  - title: "Probability Essentials: Conditioning and Independence"
+  # - slug: lecture03
   - title: "Probability Models: Discrete Random Variables"
+  # - slug: lecture04
   - title: "Probability Models: Continuous Random Variables"
+  # - slug: lecture05
   - title: "Visualizing Functions and Models: Global Properties"
+  # - slug: lecture06
   - title: "Visualizing Functions and Models: Local Properties"
+  # - slug: lecture07
   - title: "Distribution Attributes: Expectation as Central Tendency 1"
+  # - slug: lecture08
   - title: "Distribution Attributes: Expectation as Central Tendency 2"
+  # - slug: lecture09
   - title: "Distribution Attributes: Standard Deviation as Dispersion"
+  # - slug: lecture10
   - title: "Distribution Attributes: Tails and Asymptotics"
+  # - slug: lecture11
   - title: "Techniques: Sequences, Series, and Asymptotic Rates"
+  # - slug: lecture12
   - title: "Techniques: Taylor Series and Function Approximation"
+  # - slug: lecture13
   - title: "Techniques: Integrals and Sums of Function Combinations"
+  # - slug: lecture14
   - title: "Techniques: Integration by Substitution and Change of Variables"
+  # - slug: lecture15
   - title: "Coordinate Systems for Multiple Variables"
+  # - slug: lecture16
   - title: "Visualizing Functions: Multivariate Functions"
+  # - slug: lecture17
   - title: "Probability Models: Joint Distributions"
+  # - slug: lecture18
   - title: "Techniques: Partial Derivatives and Gradients"
   - title: "Spring Break"
     nonumber: true
   - title: "Spring Break"
     nonumber: true
+  # - slug: lecture19
   - title: "Techniques: Gradients and Optimization"
+  # - slug: lecture20
   - title: "Techniques: Integrals and Sums in Multiple Dimensions"
+  # - slug: lecture21
   - title: "Techniques: Splitting Sums and Conditional Expectation"
+  # - slug: lecture22
   - title: "Techniques: Integration on Manifolds and Change of Coordinates"
+  # - slug: lecture23
   - title: "Distribution Attributes: Covariance and Correlation"
+  # - slug: lecture24
   - title: "Application: Concentration and The Law of Large Numbers"
+  # - slug: lecture25
   - title: "Application: Expectation, Estimation, and Bias"
+  # - slug: lecture26
   - title: "Application: The Law of Total Variance and ANOVA"
-  - title: "Review"
-  - title: "Review"
+  # - slug: lecture27
+  - title: "Review I"
+  # - slug: lecture28
+  - title: "Review II"
   - title: "RRR Week"
     nonumber: true
   - title: "RRR Week"

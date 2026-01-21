@@ -2,6 +2,7 @@
 published: true
 presented_by: Alexander Strang
 title: "Visualizing Functions: Multivariate Functions"
+date: 2026-03-12
 files:
   slides: 
   pdf_slides: 

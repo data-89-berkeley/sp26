@@ -2,6 +2,7 @@
 published: true
 presented_by: Alexander Strang
 title: "Application: Expectation, Estimation, and Bias"
+date: 2026-04-21
 files:
   slides: 
   pdf_slides: 

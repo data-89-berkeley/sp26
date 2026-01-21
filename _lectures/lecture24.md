@@ -2,6 +2,7 @@
 published: true
 presented_by: Alexander Strang
 title: "Application: Concentration and The Law of Large Numbers"
+date: 2026-04-16
 files:
   slides: 
   pdf_slides: 

@@ -6,7 +6,7 @@ description: >-
 nav_order: 2
 ---
 
-
+# Syllabus
 ## Instructors: 
 
 **Professor**: Alexander Strang  ([alexstrang@berkeley.edu](mailto:alexstrang@berkeley.edu))  

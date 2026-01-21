@@ -2,6 +2,7 @@
 published: true
 presented_by: Alexander Strang
 title: "Review I"
+date: 2026-04-28
 files:
   slides: 
   pdf_slides: 

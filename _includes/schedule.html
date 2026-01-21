@@ -45,19 +45,11 @@
 
 {%- comment -%}
   - Manually add any extra days we need to appear on the schedule for quiz retakes
-  - Use start and end dates in quiz-retakes.yml to control this.
+  - Use the date field in quiz-retakes.yml to control this.
 {%- endcomment -%}
-{%- for retake in site.data.quiz-retakes.quiz_retakes -%}
-  {%- assign range_start_epoch = retake["start-date"] | date: "%s" | plus: 0 -%}
-  {%- assign range_end_epoch   = retake["end-date"]   | date: "%s" | plus: 0 -%}
-
-  {%- assign range_start_days_epoch = range_start_epoch | divided_by: seconds_in_day -%}
-  {%- assign range_end_days_epoch   = range_end_epoch   | divided_by: seconds_in_day -%}
-
-  {%- for d in (range_start_days_epoch..range_end_days_epoch) -%}
-    {%- assign day_epoch = d | times: seconds_in_day -%}
-    {%- assign valid_dates = valid_dates | push: day_epoch -%}
-  {%- endfor -%}
+{%- for retake in site.data.quiz-retakes.quiz-retakes -%}
+  {%- assign retake_day_epoch = retake.date | date: '%s' | plus: 0 -%}
+  {%- assign valid_dates = valid_dates | push: retake_day_epoch -%}
 {%- endfor -%}
 
 {%- comment -%}
@@ -385,36 +377,36 @@
             {%- endif -%}
 
 
-            {%- comment -%} --- QUIZ RETAKES (Date Range) --- {%- endcomment -%}
-            {%- for retake in site.data.quiz-retakes.quiz_retakes -%}
-            {%- assign start_str = retake["start-date"] | date: "%Y-%m-%d" -%}
-            {%- assign end_str   = retake["end-date"]   | date: "%Y-%m-%d" -%}
-          
-            {%- if current_date >= start_str and current_date <= end_str -%}
-
+            {%- comment -%} --- QUIZ RETAKES --- {%- endcomment -%}
+            {%- for retake in site.data.quiz-retakes.quiz-retakes -%}
+                {%- assign retake_date = retake.date | date: "%Y-%m-%d" -%}
+                
+                {%- if retake_date == current_date -%}
                 <div class="syllabus-item" style="margin-bottom: 8px;">
                 <strong class="label label-quiz-retake">Quiz Retake</strong>
-                <span>{{ retake.title }}</span>
+                {%- if retake.link -%}
+                    <a href="{{ retake.link }}">{{ retake.title }}</a>
+                {%- else -%}
+                    {{ retake.title }}
+                {%- endif -%}
                 </div>
             {%- endif -%}
             {%- endfor -%}
 
             {%- comment -%} --- PROJECT LOGIC (Date-Driven) --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
-
             {%- for project in site.data.projects.projects -%}
-            {%- assign project_date = project.date | date: "%Y-%m-%d" -%}
-            
-            {%- if project_date == current_date -%}
-                <div class="syllabus-item" style="margin-bottom: 8px;">
-                <strong class="label label-project">Project {{project.label-number}}</strong>
-                {%- if project.link -%}
-                    <a href="{{ project.link }}">{{ project.title }}</a>
-                {%- else -%}
-                    {{ project.title }}
+                {%- assign project_date = project.date | date: "%Y-%m-%d" -%}
+                
+                {%- if project_date == current_date -%}
+                    <div class="syllabus-item" style="margin-bottom: 8px;">
+                    <strong class="label label-project">Project {{project.label-number}}</strong>
+                    {%- if project.link -%}
+                        <a href="{{ project.link }}">{{ project.title }}</a>
+                    {%- else -%}
+                        {{ project.title }}
+                    {%- endif -%}
+                    </div>
                 {%- endif -%}
-                </div>
-            {%- endif -%}
             {%- endfor -%}
           </td>
 

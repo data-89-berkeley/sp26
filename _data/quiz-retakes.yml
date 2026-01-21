@@ -1,29 +1,18 @@
-quiz_retakes:
-  - title: "Quiz 1 Retake"
-    start-date: 2026-02-06
-    end-date: 2026-02-06
-    tag: "quiz-retake"
-  - title: "Quiz 2 Retake"
-    start-date: 2026-02-11
-    end-date: 2026-02-13
-    tag: "quiz-retake"
-  - title: "Quiz 3 Retake"
-    start-date: 2026-03-02
-    end-date: 2026-03-03
-    tag: "quiz-retake"
-  - title: "Quiz 4 Retake"
-    start-date: 2026-03-20
-    end-date: 2026-03-20
-    tag: "quiz-retake"
-  - title: "Quiz 5 Retake"
-    start-date: 2026-04-03
-    end-date: 2026-04-03
-    tag: "quiz-retake"
-  - title: "Quiz 6 Retake"
-    start-date: 2026-04-08
-    end-date: 2026-04-10
-    tag: "quiz-retake"
-  - title: "Quiz 7 Retake"
-    start-date: 2026-04-29
-    end-date: 2026-05-01
-    tag: "quiz-retake"
+### PROJECTS ORDERING ###
+# title and date are required for each entry
+# link is optional
+quiz-retakes:
+  - title: "Quiz 1 Retakes Friday Feb 6"
+    date: 2026-02-06
+  - title: "Quiz 2 Retakes Wednesday Feb 11 - Friday Feb 13"
+    date: 2026-02-11
+  - title: "Quiz 3 Retakes Monday March 2 - Tuesday March 3"
+    date: 2026-03-02
+  - title: "Quiz 4 Retakes Friday March 20"
+    date: 2026-03-20
+  - title: "Quiz 5 Retakes Friday April 3"
+    date: 2026-04-03
+  - title: "Quiz 6 Retakes Wednesday April 8 - Friday April 10"
+    date: 2026-04-08
+  - title: "Quiz 7 Retakes Wednesday April 29 - Friday May 1"
+    date: 2026-04-29

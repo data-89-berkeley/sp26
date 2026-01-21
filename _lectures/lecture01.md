@@ -9,7 +9,7 @@ files:
   code: 
   code_html: 
   notebook: 
-  study sheet: https://drive.google.com/file/d/17K_p_IOmoN4s2YnWB5Cus1zxUfkPjbtP/view?usp=sharing
+  notes: https://drive.google.com/file/d/17K_p_IOmoN4s2YnWB5Cus1zxUfkPjbtP/view?usp=sharing
   additional_files:
     - name: Section 1.1
       link: https://data89.org/notes/outcomes-and-events-as-sets/

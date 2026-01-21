@@ -13,7 +13,8 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - title: ""
+  - title: "Discussion 1"
+    link: https://drive.google.com/file/d/1m9dzqyIY01Oi-3Z3MlWp9pAHkZCLJzs6/view?usp=sharing
   - title: "" 
   - title: ""
   - title: ""

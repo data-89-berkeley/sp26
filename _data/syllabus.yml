@@ -31,7 +31,7 @@ extra_links_col3:
 class_days: ['2', '4']
 discussion_days: ['3']
 lab_days: []
-hw_days: []
+hw_days: ['1']
 quiz_days: ['3']
 
 # Where should we start automatically numbering each course component?

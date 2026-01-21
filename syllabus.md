@@ -13,14 +13,14 @@ nav_order: 2
 **TAs:** Andrew Thein,  Nathan Peng Kuo, Tara Kulshrestha, Wayland La,  William Lee  
 **Tutors:** Henry Liev, Jake Dalton Thiry, Tiffany Yu,  Yvonne Ye
 
-#### **Contact:** 
+### **Contact:** 
 
 **Email:** [data89@berkeley.edu](mailto:data89@berkeley.edu)  
 **Ed:** [https://edstem.org/us/courses/92899/discussion](https://edstem.org/us/courses/92899/discussion)
 
 All regular course communication will use Ed. You may post there privately. For urgent or personal issues (e.g. exceptions or accommodations) please use the course email. 
 
-#### **Office Hours:** 
+### **Office Hours:** 
 
 **Professor:** Tuesdays 2:00 \- 4:00 pm, by reservation a week in advance from the [course calendar](https://data89.org/sp26/calendar_dynamic/) for up to five students. In Evans 305\.  
 **TA:** Monday noon \- 5:00 pm, Friday 10:00 am \- noon in Warren.
@@ -29,16 +29,16 @@ All regular course communication will use Ed. You may post there privately. For 
 
 ## Class Outline:
 
-#### **Course Description:** 
+### **Course Description:** 
 
 How do we reason about data using mathematical models of random events? This course will complement the computational and conceptual toolkit students develop in Data 8. Students will build mathematical and graphical problem-solving skills needed for upper-division courses in data science. The course will rehearse key analytic competencies commonly demanded in probability applications including techniques of summation and integration, function approximation, visualization, and optimization, while offering a focused introduction to essential multivariate concepts explored in intermediate and advanced data science courses. It will fold this practice into a narrative motivated by the introduction to reasoning with uncertainty provided by Data 8, while also providing a basic foundation in probability.
 
-#### **Course Objectives:**
+### **Course Objectives:**
 
 Data 89 will introduce students to analytic and graphical methods that will be further developed in the upper-division data science courses. The course will develop a focused selection of calculus topics, in single and multiple variables, as motivated by a probability context. The probability narrative is tailored to bridge students’ prerequisite inferential experience (Data 8 or Stat 20) to the probability competencies expected in their upper division courses (equivalents to Data 100, Data 140, Data 102). The course will emphasize four key skills: computing chances, calculating expectations, finding critical points, and visualizing functions in univariate and multivariate contexts. The course will help students translate between analytical conclusions, graphical reasoning, and qualitative reasoning by highlighting the parametric dependency of answers to problem context.  Practicing these links will help students sharpen their mathematical intuition.  
  
 
-#### **Student Learning Outcomes:** 
+### **Student Learning Outcomes:** 
 
 By the end of the course students will be able to:
 
@@ -53,7 +53,7 @@ By the end of the course students will be able to:
 
 A topical calendar is available [here](https://docs.google.com/spreadsheets/d/1nKhWI4IqUpyeGRuJckTGcNa9vLlz1-UrrkpM3DhHnbE/edit?usp=sharing).
 
-#### **Prerequisites:** 
+### **Prerequisites:** 
 
 Fluency with calculus 1\. Satisfied by:
 
@@ -71,13 +71,13 @@ Experience working with Jupyter notebooks and Python programming using the datas
 
 ## Class Procedure:
 
-#### **Meeting Times:** 
+### **Meeting Times:** 
 
 **Lecture:** Tuesday/Thursday 11:00 am \- 12:30 pm, Li Ka Shing 245
 
 **Discussion:** Wednesdays, 10:00 am \- 3:00 pm, by section.
 
-#### **Materials (Textbook):**  
+### **Materials (Textbook):**  
 
 The course will use an online, course-specific text posted as [course notes](https://data89.org/notes/).
 
@@ -98,21 +98,21 @@ WeI do not promise to answer communications outside of regular work hours, so pl
 
 ## Policies:
 
-#### **Lecture Attendance:** 
+### **Lecture Attendance:** 
 
 Attendance is expected and encouraged, but will not be tracked. Lecture recordings will not be released automatically, and will be delivered only on request. We may provide worksheets in some lectures to help you organize your notes. Otherwise, we expect all students to attend with notetaking materials (pen and paper or notebook, ipad). We will only allow typed notes (laptop use) on request. 
 
-#### **Recording Policy:** 
+### **Recording Policy:** 
 
 Based on our experience in many classes, we strongly believe that the virtue of lecture is the live, regular, segmented format. We will do our best to make live lecture worth attending. It is very hard to learn any college level subject without regular, incremental practice. Lecture should not be crammed at 1.5x speed, nor back to back to back.
 
 We also strongly encourage you to make friends in class and to share notes. All of the lecture content is also available in course reading. If you do miss a class, and are unsure what to read, ask the course staff. All worksheets will be posted at the time of lecture.
 
-#### **Discussion Attendance:** 
+### **Discussion Attendance:** 
 
 Discussion attendance is expected. You must attend your assigned section. Discussion worksheets will be collected to track course participation and will graded for completion and attendance. All discussion worksheets will be designed to help you complete your HW.  
 
-#### **Technology Use in Lecture:**
+### **Technology Use in Lecture:**
 
 Please refrain from using laptops during class. You may take notes on a tablet, or bring a notebook and write in it\!
 
@@ -120,11 +120,11 @@ If you need or want to use a laptop for legitimate purposes, you will be given t
 
 If you are a DSP student with note-taking accomodations please contact us so we can arrange a note taker for you.
 
-#### **Late Work Policy:** 
+### **Late Work Policy:** 
 
 We will not accept late work without advance notice and only in clearly extenuating circumstances. Please make an effort to submit assignments on time, before the Gradescope deadline. Email us if you face valid extenuating circumstances and cannot submit on time. Do not expect an extension unless it is explicitly granted. Note that, by design, the grading policy allows HW and discussion drops without penalty. We will not grant late submission until you have missed at least 2 HW submissions. Since assignments are graded on completion, you are welcome to submit partially finished work to document your participation.
 
-#### **LLM and AI use:**
+### **LLM and AI use:**
 
 We can’t police the use of AI for HW, so we won’t. Moreover, some uses of AI are productive. So you are welcome to use it. 
 
@@ -132,7 +132,7 @@ However, we strongly advise against using it as a crutch, and suggest you attemp
 
 If you find you are relying on AI, or complete the HW but struggle on quizzes, come talk to us so we can help you work out a plan to practice more productively.
 
-#### **Accommodations and Communication:**  
+### **Accommodations and Communication:**  
 
 We cannot address all issues, particularly on late notice. However, we will do our best to accommodate your needs. Legitimate issues arise, and you are welcome to advocate for your benefit. The earlier we are aware of issues, the better we can respond. We are happy to provide appropriate accommodations as long as they are fair to the class. 
 
@@ -170,7 +170,7 @@ The exams will be administered on Mondays from 7:00 \- 9:00 pm of weeks 6 and 12
 
 ## Grades:
 
-#### **Grade Breakdown:**  
+### **Grade Breakdown:**  
 
 Per the division of assignment roles outlined above, your grade will not be based on a weighted average of components. Instead, you need to participate (i.e., do the work), demonstrate proficiency across most topics (i.e., perform sufficiently well on most quizzes), and show mastery in the exams (weighted to emphasize your best exam). 
 
@@ -210,7 +210,7 @@ Per the division of assignment roles outlined above, your grade will not be base
 
 3. **Mastery (exam):**  Your exam average will be computed with weights: 50% to your final, 35% to your better midterm, and 15% to your worse midterm. 
 
-#### **Final Grade:** 
+### **Final Grade:** 
 
 Your grade will equal your exam average, floored at the larger of the two letter grade floors set by participation and proficiency, and bounded above by the smaller of the two letter grade caps set by participation and proficiency.
 

@@ -1,0 +1,29 @@
+quiz_retakes:
+  - title: "Quiz 1 Retake"
+    start-date: 2026-02-06
+    end-date: 2026-02-06
+    tag: "quiz-retake"
+  - title: "Quiz 2 Retake"
+    start-date: 2026-02-11
+    end-date: 2026-02-13
+    tag: "quiz-retake"
+  - title: "Quiz 3 Retake"
+    start-date: 2026-03-02
+    end-date: 2026-03-03
+    tag: "quiz-retake"
+  - title: "Quiz 4 Retake"
+    start-date: 2026-03-20
+    end-date: 2026-03-20
+    tag: "quiz-retake"
+  - title: "Quiz 5 Retake"
+    start-date: 2026-04-03
+    end-date: 2026-04-03
+    tag: "quiz-retake"
+  - title: "Quiz 6 Retake"
+    start-date: 2026-04-08
+    end-date: 2026-04-10
+    tag: "quiz-retake"
+  - title: "Quiz 7 Retake"
+    start-date: 2026-04-29
+    end-date: 2026-05-01
+    tag: "quiz-retake"

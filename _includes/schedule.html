@@ -44,6 +44,23 @@
 {%- endfor -%}
 
 {%- comment -%}
+  - Manually add any extra days we need to appear on the schedule for quiz retakes
+  - Use start and end dates in quiz-retakes.yml to control this.
+{%- endcomment -%}
+{%- for retake in site.data.quiz-retakes.quiz_retakes -%}
+  {%- assign range_start_epoch = retake["start-date"] | date: "%s" | plus: 0 -%}
+  {%- assign range_end_epoch   = retake["end-date"]   | date: "%s" | plus: 0 -%}
+
+  {%- assign range_start_days_epoch = range_start_epoch | divided_by: seconds_in_day -%}
+  {%- assign range_end_days_epoch   = range_end_epoch   | divided_by: seconds_in_day -%}
+
+  {%- for d in (range_start_days_epoch..range_end_days_epoch) -%}
+    {%- assign day_epoch = d | times: seconds_in_day -%}
+    {%- assign valid_dates = valid_dates | push: day_epoch -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- comment -%}
   Sort days and group into weeks.
   sorted_dates is an array, where each element is a hash with three fields:
   - "name" is the week number (between 1 and 52)
@@ -366,6 +383,21 @@
                     {%- assign homework_index = homework_index | plus: 1 -%}
                 {%- endif -%}
             {%- endif -%}
+
+
+            {%- comment -%} --- QUIZ RETAKES (Date Range) --- {%- endcomment -%}
+            {%- for retake in site.data.quiz-retakes.quiz_retakes -%}
+            {%- assign start_str = retake["start-date"] | date: "%Y-%m-%d" -%}
+            {%- assign end_str   = retake["end-date"]   | date: "%Y-%m-%d" -%}
+          
+            {%- if current_date >= start_str and current_date <= end_str -%}
+
+                <div class="syllabus-item" style="margin-bottom: 8px;">
+                <strong class="label label-quiz-retake">Quiz Retake</strong>
+                <span>{{ retake.title }}</span>
+                </div>
+            {%- endif -%}
+            {%- endfor -%}
 
             {%- comment -%} --- PROJECT LOGIC (Date-Driven) --- {%- endcomment -%}
             {%- assign current_date = day | date: "%Y-%m-%d" -%}

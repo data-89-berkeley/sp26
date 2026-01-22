@@ -204,7 +204,7 @@
                             {%- endif -%}
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
-                            {%- unless disc_entry.nonumber -%}
+                            {%- unless quiz_entry.nonumber -%}
                                 <strong class="label label-quiz">QUIZ {{ quiz_number }}</strong>
                                 {%- assign quiz_number = quiz_number | plus: 1 -%}
                             {%- endunless -%}

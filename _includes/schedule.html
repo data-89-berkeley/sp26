@@ -196,7 +196,7 @@
                             {%- assign display_title = quiz_entry.title | default: quiz_obj.title -%}
                             
                             {%- if quiz_entry.link -%}
-                                {%- assign quiz_link = quiz_entry.link -%}
+                                {%- assign display_link = quiz_entry.link -%}
                             {%- elsif quiz_obj -%}
                                 {%- assign display_link = quiz_obj.url | relative_url -%}
                             {%- else -%}

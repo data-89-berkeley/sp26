@@ -21,8 +21,8 @@
 lectures:
   - slug: lecture01
   # - title: "Probability Essentials: Sets, Logic, and Algebra"
-  # - slug: lecture02
-  - title: "Probability Essentials: Sets, Logic, and Algebra"
+  - slug: lecture02
+  # - title: "Probability Essentials: Conditioning and Independence"
   # - slug: lecture03
   - title: "Probability Models: Discrete Random Variables"
   # - slug: lecture04

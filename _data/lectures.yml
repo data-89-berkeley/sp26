@@ -25,9 +25,9 @@ lectures:
   # - title: "Probability Essentials: Conditioning and Independence"
   - slug: lecture03
   # - title: "Probability Models: Discrete Random Variables"
-  # - slug: lecture04
-  - title: "Probability Models: Continuous Random Variables"
-  # - slug: lecture05
+  - slug: lecture04
+  # - title: "Probability Models: Continuous Random Variables"
+  - slug: lecture05
   - title: "Visualizing Functions and Models: Global Properties"
   # - slug: lecture06
   - title: "Visualizing Functions and Models: Local Properties"

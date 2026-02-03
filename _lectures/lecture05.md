@@ -13,6 +13,8 @@ files:
   additional_files:
     - name: Study Sheet
       link: https://drive.google.com/file/d/1le8mgrh34PCaJtV7Tu2vEQGt2UNKFj6d/view?usp=sharing
+    - name: Function Composition Illustration
+      link: https://drive.google.com/file/d/1H_lIBp3TqImUTy8UU-zxTnejO0RDtSVR/view?usp=sharing
     - name: Section 2.4
       link: https://data89.org/notes/probability-densities/
     - name: Section 3.1

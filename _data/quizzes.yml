@@ -16,7 +16,8 @@ quizzes:
   - skip: true
   - title: "Quiz 1 Scope" # 1
     link: https://edstem.org/us/courses/92899/discussion/7544572
-  - title: "" # 2
+  - title: "Quiz 2 Scope" # 2
+    link: https://edstem.org/us/courses/92899/discussion/7589948
   - skip: true
   - title: "" # 3
   - skip: true

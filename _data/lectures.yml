@@ -29,8 +29,8 @@ lectures:
   # - title: "Probability Models: Continuous Random Variables"
   - slug: lecture05
   # - title: "Visualizing Functions and Models: Global Properties"
-  # - slug: lecture06
-  - title: "Visualizing Functions and Models: Local Properties"
+  - slug: lecture06
+  # - title: "Visualizing Functions and Models: Local Properties"
   # - slug: lecture07
   - title: "Distribution Attributes: Expectation as Central Tendency 1"
   # - slug: lecture08

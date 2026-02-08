@@ -55,6 +55,10 @@ nav_external_links:
     url: https://data89.org/notes/
     hide_icon: true
     aria_label: "Data 89 Course Notes"
+  - title: Demo Resources
+    url: https://data89.org/notes/demos-glossary/
+    hide_icon: true
+    aria_label: "Data 89 Demos"
 
 berkeley_theme_options:
   show_logo_in_sidebar: true

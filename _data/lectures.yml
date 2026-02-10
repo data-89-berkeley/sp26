@@ -31,8 +31,8 @@ lectures:
   # - title: "Visualizing Functions and Models: Global Properties"
   - slug: lecture06
   # - title: "Visualizing Functions and Models: Local Properties"
-  # - slug: lecture07
-  - title: "Distribution Attributes: Expectation as Central Tendency 1"
+  - slug: lecture07
+  # - title: "Distribution Attributes: Expectation as Central Tendency 1"
   # - slug: lecture08
   - title: "Distribution Attributes: Expectation as Central Tendency 2"
   # - slug: lecture09

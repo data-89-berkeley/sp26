@@ -11,6 +11,10 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1myhQJRagZXnKcxEzLm0mUm-hUeDtYDIs/view?usp=sharing
+    - name: Section 4.1
+      link: https://data89.org/notes/expected-values/
 recording: 
 ---
 

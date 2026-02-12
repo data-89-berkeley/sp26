@@ -186,7 +186,8 @@ Per the division of assignment roles outlined above, your grade will not be base
      * You must submit at least 40% of the course work to pass.  
    * All homework must be submitted on time barring DSP extensions.   
    * We will not drop any HW or discussion, though, with at least 12 HW and discussion, you may miss 2 HW and 2 discussions while maintaining over 80% completion.  
-   * Homework will be graded on completion, and should be treated as practice problems for your quizzes. All discussion worksheets will be designed to help you complete your homework. Problems that are eligible for completion grading will be marked. Discussion worksheets need not be fully completed to receive full credit, as not all sections may progress as far during their 50 minute block.
+   * Homework will be graded on completion, and should be treated as practice problems for your quizzes. We will grade each HW out of 90%, capping grades at 100%. That way, if you  make an earnest attempt on most problems, you will receive close to full credit. For instance, if you make a genuine effort on 85% of a HW, you will receive a 94.4% on the HW. 
+   * All discussion worksheets will be designed to help you complete your homework. Problems that are eligible for completion grading will be marked. Discussion worksheets need not be fully completed to receive full credit, as not all sections may progress as far during their 50 minute block.
 
      
 

@@ -11,6 +11,10 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1Qsc7Dg7nq8qz-jYhoVpzKGq3udaNrgWD/view?usp=sharing
+    - name: Section 4.2
+      link: https://data89.org/notes/rules-of-expectation/
 recording: 
 ---
 

@@ -18,6 +18,7 @@ quizzes:
     link: https://edstem.org/us/courses/92899/discussion/7544572
   - title: "Quiz 2 Scope" # 2
     link: https://edstem.org/us/courses/92899/discussion/7589948
+  - skip: true
   - title: "Quiz 3 Scope" # 3
     link: https://edstem.org/us/courses/92899/discussion/7661158
   - skip: true

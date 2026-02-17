@@ -1,6 +1,6 @@
 ---
-title: Week 3 Announcement
-week: 3
+title: Week 4 Announcement
+week: 4
 date: 2026-02-09
 ---
 

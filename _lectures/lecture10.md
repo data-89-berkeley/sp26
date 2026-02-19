@@ -15,5 +15,3 @@ files:
       link: https://drive.google.com/file/d/10Pv8HVAZlSCKiYiezRyhLI8m_GZaI3uL/view?usp=sharing
 recording: 
 ---
-
-Coming Soon

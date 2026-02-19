@@ -17,5 +17,3 @@ files:
       link: https://data89.org/notes/variance/
 recording: 
 ---
-
-Coming Soon

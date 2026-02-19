@@ -37,8 +37,8 @@ lectures:
   # - title: "Distribution Attributes: Expectation as Central Tendency 2"
   - slug: lecture09
   # - title: "Distribution Attributes: Standard Deviation as Dispersion"
-  # - slug: lecture10
-  - title: "Distribution Attributes: Tails and Asymptotics"
+  - slug: lecture10
+  # - title: "Distribution Attributes: Tails and Asymptotics"
   # - slug: lecture11
   - title: "Techniques: Sequences, Series, and Asymptotic Rates"
   # - slug: lecture12

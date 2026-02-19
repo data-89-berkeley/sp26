@@ -11,6 +11,8 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/10Pv8HVAZlSCKiYiezRyhLI8m_GZaI3uL/view?usp=sharing
 recording: 
 ---
 

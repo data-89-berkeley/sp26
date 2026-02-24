@@ -39,8 +39,8 @@ lectures:
   # - title: "Distribution Attributes: Standard Deviation as Dispersion"
   - slug: lecture10
   # - title: "Distribution Attributes: Tails and Asymptotics"
-  # - slug: lecture11
-  - title: "Techniques: Sequences, Series, and Asymptotic Rates"
+  - slug: lecture11
+  # - title: "Techniques: Sequences, Series, and Asymptotic Rates"
   # - slug: lecture12
   - title: "Techniques: Taylor Series and Function Approximation"
   # - slug: lecture13

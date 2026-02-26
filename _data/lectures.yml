@@ -41,8 +41,8 @@ lectures:
   # - title: "Distribution Attributes: Tails and Asymptotics"
   - slug: lecture11
   # - title: "Techniques: Sequences, Series, and Asymptotic Rates"
-  # - slug: lecture12
-  - title: "Techniques: Taylor Series and Function Approximation"
+  - slug: lecture12
+  # - title: "Techniques: Taylor Series and Function Approximation"
   # - slug: lecture13
   - title: "Techniques: Integrals and Sums of Function Combinations"
   # - slug: lecture14

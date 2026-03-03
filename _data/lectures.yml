@@ -45,8 +45,8 @@ lectures:
   # - title: "Techniques: Taylor Series and Function Approximation"
   - slug: lecture13
   # - title: "Techniques: Limiting Distributions"
-  # - slug: lecture14
-  - title: "Techniques: Integrals and Sums of Function Combinations"
+  - slug: lecture14
+  # - title: "Techniques: Integrals and Sums of Function Combinations"
   # - slug: lecture15
   - title: "Techniques: Integration by Substitution and Change of Variables"
   # - slug: lecture16

@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Techniques: Integrals and Sums in Multiple Dimensions"
+title: "Techniques: Gradients and Optimization"
 date: 2026-04-02
 files:
   slides: 

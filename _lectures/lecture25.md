@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Application: Expectation, Estimation, and Bias"
+title: "Application: Concentration and The Law of Large Numbers"
 date: 2026-04-21
 files:
   slides: 

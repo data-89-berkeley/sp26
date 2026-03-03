@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Coordinate Systems for Multiple Variables"
+title: "Techniques: Integration by Substitution and Change of Variables"
 date: 2026-03-10
 files:
   slides: 

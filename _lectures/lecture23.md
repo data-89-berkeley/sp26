@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Distribution Attributes: Covariance and Correlation"
+title: "Techniques: Integration on Manifolds and Change of Coordinates"
 date: 2026-04-14
 files:
   slides: 

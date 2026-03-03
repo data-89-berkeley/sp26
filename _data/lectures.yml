@@ -43,42 +43,42 @@ lectures:
   # - title: "Techniques: Sequences, Series, and Asymptotic Rates"
   - slug: lecture12
   # - title: "Techniques: Taylor Series and Function Approximation"
-  # - slug: lecture13
-  - title: "Techniques: Integrals and Sums of Function Combinations"
+  - slug: lecture13
+  # - title: "Techniques: Limiting Distributions"
   # - slug: lecture14
-  - title: "Techniques: Integration by Substitution and Change of Variables"
+  - title: "Techniques: Integrals and Sums of Function Combinations"
   # - slug: lecture15
-  - title: "Coordinate Systems for Multiple Variables"
+  - title: "Techniques: Integration by Substitution and Change of Variables"
   # - slug: lecture16
-  - title: "Visualizing Functions: Multivariate Functions"
+  - title: "Coordinate Systems for Multiple Variables"
   # - slug: lecture17
-  - title: "Probability Models: Joint Distributions"
+  - title: "Visualizing Functions: Multivariate Functions"
   # - slug: lecture18
-  - title: "Techniques: Partial Derivatives and Gradients"
+  - title: "Probability Models: Joint Distributions"
   - title: "Spring Break"
     nonumber: true
   - title: "Spring Break"
     nonumber: true
   # - slug: lecture19
-  - title: "Techniques: Gradients and Optimization"
+  - title: "Techniques: Partial Derivatives and Gradients"
   # - slug: lecture20
-  - title: "Techniques: Integrals and Sums in Multiple Dimensions"
+  - title: "Techniques: Gradients and Optimization"
   # - slug: lecture21
-  - title: "Techniques: Splitting Sums and Conditional Expectation"
+  - title: "Techniques: Integrals and Sums in Multiple Dimensions"
   # - slug: lecture22
-  - title: "Techniques: Integration on Manifolds and Change of Coordinates"
+  - title: "Techniques: Splitting Sums and Conditional Expectation"
   # - slug: lecture23
-  - title: "Distribution Attributes: Covariance and Correlation"
+  - title: "Techniques: Integration on Manifolds and Change of Coordinates"
   # - slug: lecture24
-  - title: "Application: Concentration and The Law of Large Numbers"
+  - title: "Distribution Attributes: Covariance and Correlation"
   # - slug: lecture25
-  - title: "Application: Expectation, Estimation, and Bias"
+  - title: "Application: Concentration and The Law of Large Numbers"
   # - slug: lecture26
-  - title: "Application: The Law of Total Variance and ANOVA"
+  - title: "Application: Expectation, Estimation, and Bias"
   # - slug: lecture27
-  - title: "Review I"
+  - title: "Application: The Law of Total Variance and ANOVA"
   # - slug: lecture28
-  - title: "Review II"
+  - title: "Review I"
   - title: "RRR Week"
     nonumber: true
   - title: "RRR Week"

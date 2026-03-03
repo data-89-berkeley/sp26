@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Techniques: Integration on Manifolds and Change of Coordinates"
+title: "Techniques: Splitting Sums and Conditional Expectation"
 date: 2026-04-09
 files:
   slides: 

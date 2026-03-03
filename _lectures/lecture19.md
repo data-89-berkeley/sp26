@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Techniques: Gradients and Optimization"
+title: "Techniques: Partial Derivatives and Gradients"
 date: 2026-03-31
 files:
   slides: 

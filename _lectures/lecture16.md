@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Visualizing Functions: Multivariate Functions"
+title: "Coordinate Systems for Multiple Variables"
 date: 2026-03-12
 files:
   slides: 

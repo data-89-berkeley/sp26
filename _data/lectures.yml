@@ -47,8 +47,8 @@ lectures:
   # - title: "Techniques: Limiting Distributions"
   - slug: lecture14
   # - title: "Techniques: Integrals and Sums of Function Combinations"
-  # - slug: lecture15
-  - title: "Techniques: Integration by Substitution and Change of Variables"
+  - slug: lecture15
+  # - title: "Techniques: Integration by Substitution and Change of Variables"
   # - slug: lecture16
   - title: "Coordinate Systems for Multiple Variables"
   # - slug: lecture17

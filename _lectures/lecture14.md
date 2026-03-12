@@ -17,5 +17,3 @@ files:
       link: https://data89.org/notes/integrals-of-sums-and-products/
 recording: 
 ---
-
-Coming Soon

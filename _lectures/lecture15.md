@@ -19,5 +19,3 @@ files:
       link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-89&branch=main&urlpath=tree%2FDATA-89%2Fchange_of_density.ipynb
 recording: 
 ---
-
-Coming Soon

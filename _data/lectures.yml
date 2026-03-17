@@ -51,8 +51,8 @@ lectures:
   # - title: "Techniques: Integration by Substitution and Change of Variables"
   - slug: lecture16
   # - title: "Coordinate Systems for Multiple Variables"
-  # - slug: lecture17
-  - title: "Visualizing Functions: Multivariate Functions"
+  - slug: lecture17
+  # - title: "Visualizing Functions: Multivariate Functions"
   # - slug: lecture18
   - title: "Probability Models: Joint Distributions"
   - title: "Spring Break"

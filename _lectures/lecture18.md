@@ -20,5 +20,3 @@ files:
 
 recording: 
 ---
-
-Coming Soon

@@ -53,8 +53,8 @@ lectures:
   # - title: "Coordinate Systems for Multiple Variables"
   - slug: lecture17
   # - title: "Visualizing Functions: Multivariate Functions"
-  # - slug: lecture18
-  - title: "Probability Models: Joint Distributions"
+  - slug: lecture18
+  # - title: "Probability Models: Joint Distributions"
   - title: "Spring Break"
     nonumber: true
   - title: "Spring Break"

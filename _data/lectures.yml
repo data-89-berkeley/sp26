@@ -59,8 +59,8 @@ lectures:
     nonumber: true
   - title: "Spring Break"
     nonumber: true
-  # - slug: lecture19
-  - title: "Techniques: Partial Derivatives and Gradients"
+  - slug: lecture19
+  # - title: "Techniques: Partial Derivatives and Gradients"
   # - slug: lecture20
   - title: "Techniques: Gradients and Optimization"
   # - slug: lecture21

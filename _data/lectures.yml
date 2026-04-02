@@ -61,8 +61,8 @@ lectures:
     nonumber: true
   - slug: lecture19
   # - title: "Techniques: Partial Derivatives and Gradients"
-  # - slug: lecture20
-  - title: "Techniques: Gradients and Optimization"
+  - slug: lecture20
+  # - title: "Techniques: Gradients and Optimization"
   # - slug: lecture21
   - title: "Techniques: Integrals and Sums in Multiple Dimensions"
   # - slug: lecture22

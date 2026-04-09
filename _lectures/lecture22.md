@@ -17,6 +17,8 @@ files:
       link: https://data140.org/textbook/content/chapter-09/expectation-by-conditioning/
     - name: Partially Completed Notes
       link: https://drive.google.com/file/d/1Gf7gpCIZ5Wa0HW5xxWc_XJbMCF7YI14w/view?usp=sharing
+    - name: Partially Completed Notes
+      link: https://drive.google.com/file/d/1ZOhkdW5IWrwkHp-OTYRHrsz3cF40c6yT/view?usp=sharing
 recording: 
 ---
 

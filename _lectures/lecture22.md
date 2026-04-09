@@ -11,7 +11,10 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1ycbBEGa0NDrT8736pEyGCFLzYKRCpv4s/view?usp=sharing
+    - name: Chapter 10.1
+      link: https://data140.org/textbook/content/chapter-09/expectation-by-conditioning/
 recording: 
 ---
 
-Coming Soon

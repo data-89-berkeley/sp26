@@ -11,7 +11,10 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1T1o95dmKVfdztCUSSDiTKfFEUk37FCQT/view?usp=sharing
+    - name: Chapter 10.1
+      link: https://data89.org/notes/iterated-integration/
 recording: 
 ---
 
-Coming Soon

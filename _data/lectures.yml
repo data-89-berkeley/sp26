@@ -63,10 +63,10 @@ lectures:
   # - title: "Techniques: Partial Derivatives and Gradients"
   - slug: lecture20
   # - title: "Techniques: Gradients and Optimization"
-  # - slug: lecture21
-  - title: "Techniques: Integrals and Sums in Multiple Dimensions"
-  # - slug: lecture22
-  - title: "Techniques: Splitting Sums and Conditional Expectation"
+  - slug: lecture21
+  # - title: "Techniques: Integrals and Sums in Multiple Dimensions"
+  - slug: lecture22
+  # - title: "Techniques: Splitting Sums and Conditional Expectation"
   # - slug: lecture23
   - title: "Techniques: Integration on Manifolds and Change of Coordinates"
   # - slug: lecture24

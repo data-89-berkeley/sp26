@@ -11,7 +11,9 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1iRTFRxF8RpW9c4Aajty0dtRaplqwN29X/view?usp=sharing
+    - name: Chapter 10.3
+      link: https://data89.org/notes/integration-on-manifolds/
 recording: 
 ---
-
-Coming Soon

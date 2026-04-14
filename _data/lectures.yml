@@ -67,8 +67,8 @@ lectures:
   # - title: "Techniques: Integrals and Sums in Multiple Dimensions"
   - slug: lecture22
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
-  # - slug: lecture23
-  - title: "Techniques: Integration on Manifolds and Change of Coordinates"
+  - slug: lecture23
+  # - title: "Techniques: Integration on Manifolds and Change of Coordinates"
   # - slug: lecture24
   - title: "Distribution Attributes: Covariance and Correlation"
   # - slug: lecture25

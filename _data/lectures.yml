@@ -70,15 +70,15 @@ lectures:
   - slug: lecture23
   # - title: "Techniques: Integration on Manifolds and Change of Coordinates"
   # - slug: lecture24
-  - title: "Distribution Attributes: Covariance and Correlation"
+  - title: "Application: Measuring Association"
   # - slug: lecture25
-  - title: "Application: Concentration and The Law of Large Numbers"
+  - title: "Application: Estimation"
   # - slug: lecture26
-  - title: "Application: Expectation, Estimation, and Bias"
+  - title: "Application: Concentration via the Law of Large Numbers"
   # - slug: lecture27
-  - title: "Application: The Law of Total Variance and ANOVA"
+  - title: "Application: Concentration via the Central Limit Theorem"
   # - slug: lecture28
-  - title: "Review I"
+  - title: "AMA and Review"
   - title: "RRR Week"
     nonumber: true
   - title: "RRR Week"

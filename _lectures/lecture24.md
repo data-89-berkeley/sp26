@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Distribution Attributes: Covariance and Correlation"
+title: "Application: Measuring Association"
 date: 2026-04-16
 files:
   slides: 

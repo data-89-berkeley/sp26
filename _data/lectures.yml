@@ -69,8 +69,8 @@ lectures:
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
   - slug: lecture23
   # - title: "Techniques: Integration on Manifolds and Change of Coordinates"
-  # - slug: lecture24
-  - title: "Application: Measuring Association"
+  - slug: lecture24
+  # - title: "Application: Measuring Association"
   # - slug: lecture25
   - title: "Application: Estimation"
   # - slug: lecture26

@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Review I"
+title: "Application: Concentration via the Central Limtit Theorem"
 date: 2026-04-30
 files:
   slides: 

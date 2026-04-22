@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Application: Concentration and the Central Limit Theorem"
+title: "Application: Concentration via the Law of Large Numbers"
 date: 2026-04-28
 files:
   slides: 

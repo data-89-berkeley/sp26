@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Alexander Strang
-title: "Application: Concentration and the Law of Large Numbers"
+title: "Application: Properties of Estimators"
 date: 2026-04-23
 files:
   slides: 

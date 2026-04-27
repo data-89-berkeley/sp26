@@ -73,8 +73,8 @@ lectures:
   # - title: "Application: Measuring Association"
   - slug: lecture25
   # - title: "Application: Estimation"
-  # - slug: lecture26
-  - title: "Application: Properties of Estimators"
+  - slug: lecture26
+  # - title: "Application: Properties of Estimators"
   # - slug: lecture27
   - title: "Application: Concentration via the Law of Large Numbers"
   # - slug: lecture28

@@ -75,8 +75,8 @@ lectures:
   # - title: "Application: Estimation"
   - slug: lecture26
   # - title: "Application: Properties of Estimators"
-  # - slug: lecture27
-  - title: "Application: Concentration via the Law of Large Numbers"
+  - slug: lecture27
+  # - title: "Application: Concentration via the Law of Large Numbers"
   # - slug: lecture28
   - title: "Application: Concentration via the Central Limit Theorem"
   - title: "RRR Week"

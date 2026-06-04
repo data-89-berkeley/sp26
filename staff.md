@@ -5,6 +5,9 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data89.org/)
+
 # Staff
 
 ## Instructors

@@ -5,6 +5,9 @@ description: Lecture, Discussion and OH schedules
 nav_order: 5
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data89.org/)
+
 # Calendar 
 
 To sign up for Professor's Strang's weekly OH, please follow this [sign up link](https://calendar.app.google/QE4mNV1Vi1yY3dMYA).

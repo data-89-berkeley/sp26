@@ -6,6 +6,10 @@ description: >-
 nav_order: 2
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data89.org/)
+
+
 # Syllabus
 ## Instructors: 
 
